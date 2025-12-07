@@ -155,6 +155,7 @@ cd kanban-api
 Copy appsettings.json as appsettings.Development.json:
 
 ```bash
+cd kanban-net
 cp appsettings.json appsettings.Development.json
 ```
 
